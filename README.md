@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @coderooz
 - 👀 I’m interested in learning new tricks and tips for programming
 - 🌱 I’m currently learning python neural nework
+- 📑 Building projects related to skill and intrest.
 - 📫 How to reach me email:- viewersweb02@gmail.com
 <!---- 💞️ I’m looking to collaborate on (currently at none) --->
 
