@@ -1,5 +1,4 @@
 
-
 # About
 - 👋 Hi, I’m @coderooz
 - 👀 I’m interested in learning new tricks and tips for programming
@@ -18,8 +17,8 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,nodejs,mongodb,md,git,github,vscode,postman,stackoverflow&perline=13)
 
 # Github Profile Insignt:
-![trophy](https://github-profile-trophy.vercel.app/?username=coderooz&theme=2077&column=3&row=2&title=-Issues,-Reviews)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=coderooz&hide_border=false&no-bg=true&no-frame=true&theme=2077)
+![trophy](https://github-profile-trophy.vercel.app/?username=coderooz&theme=darkhub&column=3&row=2&title=-Issues,-Reviews)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=coderooz&hide_border=false&no-bg=true&no-frame=true&theme=dark)
 
 <!--![Stat](https://bad-apple-github-readme.vercel.app/api?username=coderooz&show_icons=true&icon_color=00b3ff&theme=blue-green&title_color=00b3ff) -->
 ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coderooz&theme=2077) 
