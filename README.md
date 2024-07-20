@@ -14,12 +14,18 @@
 - Twitter : https://x.com/RanitSaha2002
 - Coursera : https://www.coursera.org/learner/ranit-saha-8854
 
+## Skills:
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,nodejs,mongodb,md,git,github,vscode,postman,stackoverflow&perline=13)
+
 # Github Profile Insignt:
-![trophy](https://github-profile-trophy.vercel.app/?username=coderooz)
+![trophy](https://github-profile-trophy.vercel.app/?username=coderooz&theme=2077&column=3&row=2&title=-Issues,-Reviews)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=coderooz&hide_border=false&no-bg=true&no-frame=true&theme=2077)
 
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coderooz&theme=dark) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderooz&theme=2077)
-
-![Most Commited](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderooz&theme=2077) ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderooz&theme=2077)
+<!--![Stat](https://bad-apple-github-readme.vercel.app/api?username=coderooz&show_icons=true&icon_color=00b3ff&theme=blue-green&title_color=00b3ff) -->
+![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coderooz&theme=2077) 
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderooz&theme=2077&utcOffset=5.30)
+![Most Commited](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderooz&theme=2077) 
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderooz&theme=2077)
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderooz&theme=2077)
 <!---
