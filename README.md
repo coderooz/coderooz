@@ -1,5 +1,5 @@
 # Hey There! 👋
-I am Ranit Saha a.k.a [Coderooz](https://github.com/coderooz). I am a naive developer trying to learn more and develop better for the world. 
+I am Ranit Saha a.k.a [Coderooz](https://github.com/coderooz). I am a naive developer trying to learn more and develop better for the world. I have various ongoing projects including **`Node.js`**, **`Python`**, **`PHP`**, and **web design using `HTML` and `CSS`**. The projects range from simple "Hello World" servers to complex financial data extraction and visualization, trading programs, and interactive Telegram bots.
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1264411066054479922?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1264411066054479922)
