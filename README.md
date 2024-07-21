@@ -1,3 +1,10 @@
+# Hey There! 👋
+I am Ranit Saha a.k.a [Coderooz](https://github.com/coderooz). I am a naive developer trying to learn more and develop better for the world. 
+
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1264411066054479922?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1264411066054479922)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1264411066054479922)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1264411066054479922)](https://dev.discordprofiles.me/openspotify/1264411066054479922)
 
 # About
 - 👋 Hi, I’m @coderooz
