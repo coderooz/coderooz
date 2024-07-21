@@ -14,7 +14,7 @@
 - Coursera : https://www.coursera.org/learner/ranit-saha-8854
 
 ## Skills:
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,nodejs,mongodb,md,git,github,vscode,postman,stackoverflow&perline=13)
+![My Skills](https://skillicons.dev/icons?i=python,php,html,css,js,jquery,tailwind,bootstrap,nodejs,mysql,sqlite,md,git,github,vscode,sublime,postman,stackoverflow&perline=13)
 
 # Github Profile Insignt:
 ![trophy](https://github-profile-trophy.vercel.app/?username=coderooz&theme=darkhub&column=3&row=2&title=-Issues,-Reviews)
