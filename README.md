@@ -1,10 +1,14 @@
-# Hey There! 👋
-I am Ranit Saha a.k.a [Coderooz](https://github.com/coderooz). I am a naive developer trying to learn more and develop better for the world. I have various ongoing projects including **`Node.js`**, **`Python`**, **`PHP`**, and **web design using `HTML` and `CSS`**. The projects range from simple "Hello World" servers to complex financial data extraction and visualization, trading programs, and interactive Telegram bots.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=coderooz.coderooz" alt="Page Counter" />
+<h1 align="center"> Hey There! 👋 </h1>
+<p>I am Ranit Saha a.k.a <a href="https://github.com/coderooz">Coderooz</a>. I am a naive developer trying to learn more and develop better for the world. I have various ongoing projects including <b>Node.js</b>, <b>Python</b>, <b>PHP</b> and <i >web design</i> using <b>HTML</b> and <b>CSS</b>. The projects range from simple "Hello World" servers to complex financial data extraction and visualization, trading programs, and interactive Telegram bots. </p>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1264411066054479922?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1264411066054479922)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1264411066054479922)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1264411066054479922)](https://dev.discordprofiles.me/openspotify/1264411066054479922)
+<div align="center">
+<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1264411066054479922?simple=true" alt="Status"/>
+<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1264411066054479922" alt="Playing"/>
+<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1264411066054479922" alt="VS-Code"/>
+<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1264411066054479922" alt="Spotify"/>
+</div>
+<br>
 
 # About
 - 👋 Hi, I’m @coderooz
