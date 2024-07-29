@@ -17,6 +17,7 @@
 <p>📑 Building projects related to skill and intrest.</p>
 <p>📫 How to reach me email:- <a href="mailto:viewersweb02@gmail.com">viewersweb02@gmail.com</a></p>
 <!---- 💞️ I’m looking to collaborate on (currently at none) --->
+<p>⚒ Currently Working on <a href="https://github.com/coderooz/automate-posting-app">automate-posting-app</a> project.</p>
 
 <h1> Profile Links: </h1>
 
@@ -34,7 +35,7 @@
 </a>
 
 ## Skills:
-![My Skills](https://skillicons.dev/icons?i=python,php,html,css,js,jquery,tailwind,bootstrap,nodejs,mysql,sqlite,md,git,github,vscode,sublime,postman,stackoverflow&perline=13)
+![My Skills](https://skillicons.dev/icons?i=python,php,html,css,js,jquery,tailwind,bootstrap,nodejs,mysql,sqlite,md,git,github,vscode,sublime,postman,stackoverflow,vercel&perline=13)
 
 
 # Github Profile Insignt:
