@@ -49,6 +49,8 @@
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderooz&theme=2077)
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderooz&theme=2077)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66ea9fdef34c8868ec0d4766?variant=dark)](https://roadmap.sh)
 <!---
 coderooz/coderooz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
