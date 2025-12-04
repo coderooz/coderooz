@@ -17,7 +17,7 @@
 <p>📑 Building projects related to skill and intrest.</p>
 <p>📫 How to reach me email:- <a href="mailto:viewersweb02@gmail.com">viewersweb02@gmail.com</a></p>
 <!---- 💞️ I’m looking to collaborate on (currently at none) --->
-<p>⚒ Currently Working on <a href="https://github.com/coderooz/automate-posting-app">automate-posting-app</a> project.</p>
+<p>⚒ Currently Working on <b>Local Ecosystem Project</b> project.</p>
 
 <h1> Profile Links: </h1>
 
