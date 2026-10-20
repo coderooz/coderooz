@@ -1,57 +1,306 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=coderooz.coderooz" alt="Page Counter" />
+<div align="center">
+
+# Hey there! 👋 I'm Ranit Saha
+
+### `Coderooz` · Software Developer · AI & Developer-Tooling Enthusiast
+
+<p>
+  <a href="https://coderooz.in">
+    <img src="https://img.shields.io/badge/Portfolio-coderooz.in-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"/>
+  </a>
+  <a href="https://github.com/coderooz">
+    <img src="https://img.shields.io/badge/GitHub-Coderooz-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ranit-saha-b044a6184">
+    <img src="https://img.shields.io/badge/LinkedIn-Ranit%20Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Ranit02">
+    <img src="https://img.shields.io/badge/LeetCode-Ranit02-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="mailto:viewersweb02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+</div>
+
+
+---
+
+## About Me
+
+I'm **Ranit Saha**, better known online as **Coderooz**.
+
+I'm a software developer interested in building **practical, scalable and intelligent software systems**. I enjoy taking an idea from architecture and experimentation through implementation, testing, automation and deployment.
+
+My work spans several areas, including:
+
+- 🤖 **AI-assisted development & agent systems**
+- 🧠 **AI workflows, orchestration & multi-agent systems**
+- 🔌 **MCP servers & developer tooling**
+- 🌐 **Full-stack web applications**
+- 📱 **React Native / Expo applications**
+- 🐍 **Python systems & data processing**
+- 🗄️ **Databases, APIs & backend architecture**
+- 📊 **Financial data, analytics & visualization**
+- 🧩 **Reusable frameworks, libraries & developer infrastructure**
+- 🏗️ **Software architecture, governance & automation**
+
+I am particularly interested in the space where **software engineering, AI agents and automation converge**.
+
+---
+
+## What I'm Building
+
+My projects are not limited to individual applications. I am increasingly interested in building the **infrastructure and systems that allow applications and AI agents to work together reliably**.
+
+### 🧠 AI & Agent Systems
+
+Exploring architectures for AI agents that can:
+
+```text
+Understand a goal
+      ↓
+Build context
+      ↓
+Plan
+      ↓
+Delegate
+      ↓
+Execute
+      ↓
+Validate
+      ↓
+Recover
+      ↓
+Learn
+```
+
+This includes experimentation with:
+
+- Agent orchestration
+- MCP-based tooling
+- Persistent agent memory
+- Project context systems
+- Sub-agent coordination
+- Automated validation
+- AI development workflows
+- Engineering governance
+
+### 🛠️ Developer Infrastructure
+
+I also build tools intended to make software development more structured and reusable:
+
+- MCP servers
+- Developer automation
+- Template systems
+- Reusable UI/editor components
+- Project architecture tooling
+- Testing and validation systems
+- Documentation and reference systems
+- AI-agent development infrastructure
+
+---
+
+## Featured Projects
+
+> A selection of projects and systems I've worked on or am actively developing.
+
+### 🧠 Brain Network
+
+An experimental platform exploring **AI model organization, intelligence layers, learning systems and agent-oriented architecture**.
+
+Focus areas include:
+
+- Model visualization
+- Learning integration
+- Intelligence layers
+- Agent workflows
+- Research infrastructure
+- System observability
+
+---
+
+### 🛒 EarnSetu / LocalCart
+
+A **hyperlocal commerce platform** designed around an offline-first approach.
+
+The ecosystem explores:
+
+- Local commerce
+- Inventory management
+- Sales & purchasing
+- Customer workflows
+- Credit management
+- Offline-first mobile experiences
+- Administrative tooling
+
+---
+
+### 🔌 Local MCP Memory Server
+
+A persistent MCP-based infrastructure project for **AI-agent context, project state and multi-agent coordination**.
+
+The architecture explores:
+
+- Persistent agent memory
+- Project identity
+- Agent registration
+- Task coordination
+- Activity tracking
+- Resource locking
+- Conflict detection
+- MCP tooling
+
+---
+
+### 📝 Simple Tiptap Editor
+
+A reusable rich-text editing system built around **Next.js and Tiptap**, with multiple editor modes, extensions, toolbars and reusable UI components.
+
+---
+
+### 🎧 Data-Qudio
+
+An experimental Python project exploring the encoding and extraction of digital data through **audio frequencies**.
+
+The project investigates:
+
+- Binary framing
+- Audio modulation
+- BFSK
+- Demodulation
+- Round-trip encoding
+- Signal processing
+- Protocol experimentation
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,html,css,bash&perline=10" alt="Languages"/>
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,expo,jquery,bootstrap&perline=10" alt="Frameworks and libraries"/>
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,docker,vercel&perline=10" alt="Infrastructure"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma&perline=10" alt="Tools"/>
+</p>
+
+---
+
+## Engineering Interests
+
+```text
+Software Architecture
+        │
+        ├── Full-Stack Systems
+        │
+        ├── AI / Agent Systems
+        │     ├── MCP
+        │     ├── Agent Memory
+        │     ├── Orchestration
+        │     └── Multi-Agent Workflows
+        │
+        ├── Developer Infrastructure
+        │     ├── Automation
+        │     ├── Templates
+        │     ├── Tooling
+        │     └── Validation
+        │
+        ├── Data & Analytics
+        │
+        └── Experimental Computing
+              ├── Audio/Data Encoding
+              ├── AI Research
+              └── New Interfaces
+```
+
+---
+
+## Development Philosophy
+
+I prefer building systems that are:
+
+- **Modular** — clear boundaries and responsibilities
+- **Testable** — behavior should be verifiable
+- **Observable** — failures should be diagnosable
+- **Automated** — repetitive work should be delegated
+- **Documented** — architecture should remain understandable
+- **Composable** — components should be reusable
+- **Maintainable** — today's solution should not become tomorrow's bottleneck
+
+A recurring principle in my projects is:
+
+> **Build the system, not just the feature.**
+
+---
+
+## GitHub Activity
 
 <div align="center">
-<h1> Hey There! 👋 </h1>
-<p>I am Ranit Saha a.k.a <a href="https://github.com/coderooz">Coderooz</a>. I am a naive developer trying to learn more and develop better for the world. I have various ongoing projects including <b>Node.js</b>, <b>Python</b>, <b>PHP</b> and <i >web design</i> using <b>HTML</b> and <b>CSS</b>. The projects range from simple "Hello World" servers to complex financial data extraction and visualization, trading programs, and interactive Telegram bots. </p>
 
+<img src="https://github-profile-trophy.vercel.app/?username=coderooz&theme=darkhub&column=4&row=2&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 
-<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1264411066054479922?simple=true" alt="Status"/>
-<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1264411066054479922" alt="Playing"/>
-<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1264411066054479922" alt="VS-Code"/>
-<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1264411066054479922" alt="Spotify"/>
+<br/><br/>
 
-<h1>About</h1>
-<p>👋 Hi, I’m @coderooz</p>
-<p>👀 I’m interested in learning new tricks and tips for programming.</p>
-<p>🌱 I’m currently learning python neural nework.</p>
-<p>📑 Building projects related to skill and intrest.</p>
-<p>📫 How to reach me email:- <a href="mailto:viewersweb02@gmail.com">viewersweb02@gmail.com</a></p>
-<!---- 💞️ I’m looking to collaborate on (currently at none) --->
-<p>⚒ Currently Working on <b>Local Ecosystem Project</b> project.</p>
+<img src="https://github-readme-stats.vercel.app/api?username=coderooz&show_icons=true&hide_border=true&theme=dark&rank_icon=github" alt="GitHub Stats"/>
 
-<h1> Profile Links: </h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderooz&layout=compact&hide_border=true&theme=dark" alt="Top Languages"/>
 
-<a href="www.linkedin.com/in/ranit-saha-b044a6184" target="blank">
-  <img src="https://img.shields.io/badge/Linkeden-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkden Image"/>
-</a>
-<a href="https://leetcode.com/u/Ranit02" target="blank">
-  <img src="https://img.shields.io/badge/LeetCode-ffffff?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Image"/>
-</a>
-<a href="https://www.coursera.org/learner/ranit-saha-8854" target="blank">
-  <img src="https://img.shields.io/badge/Coursera-indigo?style=for-the-badge&logo=coursera&logoColor=blue" alt="Coursera Image"/>
-</a>
-<a href="https://x.com/RanitSaha2002" target="blank">
-  <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=black" alt="X(Twitter) Image"/>
-</a>
+<br/>
 
-## Skills:
-![My Skills](https://skillicons.dev/icons?i=python,php,html,css,js,jquery,tailwind,bootstrap,nodejs,mysql,sqlite,md,git,github,vscode,sublime,postman,stackoverflow,vercel&perline=13)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderooz&theme=2077" alt="Profile Details"/>
 
+<br/>
 
-# Github Profile Insignt:
-![trophy](https://github-profile-trophy.vercel.app/?username=coderooz&theme=darkhub&column=3&row=2&title=-Issues,-Reviews)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=coderooz&hide_border=false&no-bg=true&no-frame=true&theme=dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderooz&theme=2077&utcOffset=5.5" alt="Productive Time"/>
 
-<!--![Stat](https://bad-apple-github-readme.vercel.app/api?username=coderooz&show_icons=true&icon_color=00b3ff&theme=blue-green&title_color=00b3ff) -->
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coderooz&theme=2077) 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderooz&theme=2077&utcOffset=5.30)
-![Most Commited](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderooz&theme=2077) 
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderooz&theme=2077)
+</div>
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderooz&theme=2077)
+---
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66ea9fdef34c8868ec0d4766?variant=dark)](https://roadmap.sh)
-<!---
-coderooz/coderooz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Find Me Online
+
+<p>
+  <a href="https://github.com/coderooz">
+    <img src="https://img.shields.io/badge/GitHub-Coderooz-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ranit-saha-b044a6184">
+    <img src="https://img.shields.io/badge/LinkedIn-Ranit%20Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Ranit02">
+    <img src="https://img.shields.io/badge/LeetCode-Ranit02-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.coursera.org/learner/ranit-saha-8854">
+    <img src="https://img.shields.io/badge/Coursera-Ranit%20Saha-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/>
+  </a>
+  <a href="https://x.com/RanitSaha2002">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Building. Experimenting. Improving.
+
+[**`coderooz`**](https://coderooz.in)
+
+</div>
